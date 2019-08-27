@@ -1,0 +1,26 @@
+body {
+    font-style:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-color: #666666;
+    border-color: #dddddd;
+    margin: 0;
+    max-width: 960px;
+}
+
+header {
+    background-color: #ffffff;
+    border-color: #cccccc;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    border-bottom: 2px solid #CCC;
+    justify-content: center;
+}
+
+.logo {
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color:white;
+}
+
+h1 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5
+}
