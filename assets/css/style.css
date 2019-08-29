@@ -14,6 +14,7 @@ header {
     border-bottom: 1px solid grey;
 }
 
+
 nav {
     width: 960px;
     margin: 0 auto;
@@ -54,10 +55,12 @@ main {
     width: 960px;
     margin: 0 auto;
 
+
 }
 .aboutme {
     background-color: white;
     line-height: 2;
+    padding: 20px;
     
 }
 
@@ -65,6 +68,10 @@ main {
     float:left;
 }
 
+.bioimg {
+    margin-right: 20px;
+    height: 225px;
+}
 
 footer {
     text-align: center;
@@ -99,4 +106,25 @@ form textarea {
     margin: 0 auto;
     background-color: white;
     margin-bottom: 20px;
+}
+
+.img1and2, .img3and4, {
+    float:left;
+    clear: both;
+
+}
+
+.portfoliomain img {
+    height: 200px;
+    width: 300px;
+    margin: 15px;
+}
+
+.portfoliomain h2 {
+    padding: 15px;
+    margin-left: 5px;
+}
+
+.portfoliomain hr {
+    margin: 15px;
 }
