@@ -115,8 +115,8 @@ form textarea {
     margin-bottom: 20px;
 }
 
-.img1and2, .img3and4, {
-    float:left;
+.img1and2, .img3and4 {
+    float: left;
     clear: both;
 
 }
@@ -136,3 +136,4 @@ form textarea {
 .portfoliomain hr {
     margin: 15px;
 }
+
