@@ -115,18 +115,97 @@ form textarea {
     margin-bottom: 20px;
 }
 
-.img1and2, .img3and4 {
-    float: left;
-    clear: both;
+article {
+    display: inline-block;
+}
+
+.img1 {
+    background-image: url('/assets/images/download\ \(1\).jpg');
+    width: 350px;
+    height: 250px;
+    color: white;
+    margin-left: 30px;
+    padding-top: 33px;
+    background-repeat: no-repeat;
+}
+
+.img1text {
+    color: white;
+    background-color: #4aaaa5;
+    text-align: center;
+    margin-top: 166px;
+    font-size: 30px;
+    width: 350px;
 
 }
 
-.portfoliomain img {
-    height: 200px;
-    width: 300px;
-    margin: 15px;
+.img2 {
+    background-image: url('/assets/images/city.jpg');
+    width: 350px;
+    height: 250px;
+    color: white;
+    margin-left: 50px;
+    background-repeat: no-repeat;
 }
 
+.img2text {
+    color: white;
+    background-color: #4aaaa5;
+    text-align: center;
+    margin-top: 200px;
+    font-size: 30px;
+}
+
+.img3 {
+    background-image: url('/assets/images/flower.jpg');
+    width: 350px;
+    height: 250px;
+    color: white;
+    margin-left: 30px;
+    background-repeat: no-repeat;
+}
+
+.img3text {
+    color: white;
+    background-color: #4aaaa5;
+    text-align: center;
+    margin-top: 200px;
+    font-size: 30px;
+}
+
+.img4 {
+    background-image: url('/assets/images/guitar.jpg');
+    width: 350px;
+    height: 250px;
+    color: white;
+    margin-left: 50px;
+    background-repeat: no-repeat;
+}
+
+.img4text {
+    color: white;
+    background-color: #4aaaa5;
+    text-align: center;
+    margin-top: 200px;
+    font-size: 30px;
+}
+
+.img5 {
+    background-image: url('/assets/images/headphones.jpg');
+    width: 350px;
+    height: 250px;
+    color: white;
+    margin-left: 30px;
+    background-repeat: no-repeat;
+}
+
+.img5text {
+    color: white;
+    background-color: #4aaaa5;
+    text-align: center;
+    margin-top: 200px;
+    font-size: 30px;
+}
 .portfoliomain h2 {
     padding: 15px;
     padding-top: 25px;
@@ -136,4 +215,6 @@ form textarea {
 .portfoliomain hr {
     margin: 15px;
 }
+
+
 
