@@ -120,7 +120,7 @@ article {
 }
 
 .img1 {
-    background-image: url('/assets/images/download\ \(1\).jpg');
+    background-image: url('../images/download\ \(1\).jpg');
     width: 350px;
     height: 250px;
     color: white;
@@ -140,7 +140,7 @@ article {
 }
 
 .img2 {
-    background-image: url('/assets/images/city.jpg');
+    background-image: url('../images/city.jpg');
     width: 350px;
     height: 250px;
     color: white;
@@ -157,7 +157,7 @@ article {
 }
 
 .img3 {
-    background-image: url('/assets/images/flower.jpg');
+    background-image: url('../images/flower.jpg');
     width: 350px;
     height: 250px;
     color: white;
@@ -174,7 +174,7 @@ article {
 }
 
 .img4 {
-    background-image: url('/assets/images/guitar.jpg');
+    background-image: url('../images/guitar.jpg');
     width: 350px;
     height: 250px;
     color: white;
@@ -191,7 +191,7 @@ article {
 }
 
 .img5 {
-    background-image: url('/assets/images/headphones.jpg');
+    background-image: url('../images/headphones.jpg');
     width: 350px;
     height: 250px;
     color: white;
